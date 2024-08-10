@@ -1,7 +1,9 @@
+![alt text]("C:\Users\asus\OneDrive\Pictures\Screenshots\Screenshot (1).png"?raw=true)
+
+
 ** ArdCourse
 Ardcourse adalah sebuah website online course yang dibangun menggunakan laravel 11 tujuan pembuatan aplikasi adalah untuk mengikuti kegiatan magang. 
 
-![Imgur](https://imgur.com/J3zJXFw.png)
 ** Instalasi Project
 
 1. clone repository
